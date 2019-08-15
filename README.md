@@ -6,6 +6,10 @@ Ensure you have node.
 ```
 git clone <path to repo>
 ```
+### Install packages
+````
+yarn install
+````
 
 ### Run the dev server
 ```
